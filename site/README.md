@@ -1,14 +1,11 @@
-# My Web App
+# Web App
 
-This is a simple web application that showcases new features and collects user feedback.
+This is a simple web application that demonstrates basic HTML, CSS, and JavaScript functionality.
 
 ## Features
-- Enhanced User Interface
-- Improved Performance
-- New API Integration
+- Displays a welcome message.
+- Includes a button that, when pressed, displays 'ok' on the page.
 
-## Getting Started
-To run this application, open `index.html` in your web browser.
-
-## Feedback
-Users can submit feedback through the provided form, which will be logged to the console.
+## Usage
+1. Open `index.html` in your web browser.
+2. Click the button to see the output.
